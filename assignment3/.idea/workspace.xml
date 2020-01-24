@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ce332e5-cba3-48df-b47d-4ed571c5b1f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ULQkH2b7FuyVKzyIxZmLHrAjIA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Assignment3Part4 (1)">
+    <configuration name="Assignment3Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shpp.p2p.cs.kyelyseyeva.assignment3.Assignment3Part1" />
+      <module name="assignment3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shpp.p2p.cs.kyelyseyeva.assignment3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assignment3Part4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shpp.p2p.cs.kyelyseyeva.assignment3.Assignment3Part4" />
+      <module name="assignment3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shpp.p2p.cs.kyelyseyeva.assignment3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DragCirclesProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shpp.cs.a.lectures.lec06.DragCirclesProgram" />
+      <module name="assignment3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shpp.cs.a.lectures.lec06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhysicsAnimProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shpp.cs.a.lectures.lec06.PhysicsAnimProgram" />
+      <module name="assignment3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shpp.cs.a.lectures.lec06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ukraine1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shpp.cs.a.lectures.lec08.Ukraine1" />
+      <module name="assignment3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shpp.cs.a.lectures.lec08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Assignment3Part4 (1)" />
+        <item itemvalue="Application.Ukraine1" />
+        <item itemvalue="Application.PhysicsAnimProgram" />
+        <item itemvalue="Application.DragCirclesProgram" />
+        <item itemvalue="Application.Assignment3Part1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ce332e5-cba3-48df-b47d-4ed571c5b1f9" name="Default Changelist" comment="" />
+      <created>1575133537530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575133537530</updated>
+      <workItem from="1575133544147" duration="3451000" />
+      <workItem from="1575197675036" duration="9718000" />
+      <workItem from="1575259415109" duration="24749000" />
+      <workItem from="1575471620736" duration="2520000" />
+      <workItem from="1575475281300" duration="521000" />
+      <workItem from="1575557155011" duration="2206000" />
+      <workItem from="1575559517829" duration="151000" />
+      <workItem from="1576137646764" duration="2468000" />
+      <workItem from="1576241925870" duration="2987000" />
+      <workItem from="1576330942575" duration="1836000" />
+      <workItem from="1576416088697" duration="1176000" />
+      <workItem from="1576421357354" duration="28000" />
+      <workItem from="1576824724426" duration="48000" />
+      <workItem from="1576825981879" duration="106000" />
+      <workItem from="1576836498782" duration="709000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="819" y="113" key="FileChooserDialogImpl" timestamp="1576826100131">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="819" y="113" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576826100131" />
+    <state width="557" height="161" key="GridCell.Tab.0.bottom" timestamp="1576826101204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="557" height="161" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576826101204" />
+    <state width="557" height="161" key="GridCell.Tab.0.center" timestamp="1576826101203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="557" height="161" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576826101203" />
+    <state width="557" height="161" key="GridCell.Tab.0.left" timestamp="1576826101203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="557" height="161" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576826101203" />
+    <state width="557" height="161" key="GridCell.Tab.0.right" timestamp="1576826101204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="557" height="161" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576826101204" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1576421378450">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1576421378450" />
+  </component>
+</project>
